@@ -1,0 +1,68 @@
+{
+    "countries": [
+      {
+        "name": "Japan",
+        "currency": "JPY",
+        "topProducts": [
+          {
+            "product": "Foundation",
+            "brand": "Brand A",
+            "price": 3500
+          },
+          {
+            "product": "Mascara",
+            "brand": "Brand B",
+            "price": 1800
+          },
+          {
+            "product": "Lipstick",
+            "brand": "Brand C",
+            "price": 2500
+          }
+        ]
+      },
+      {
+        "name": "Romania",
+        "currency": "RON",
+        "topProducts": [
+          {
+            "product": "Eyeshadow Palette",
+            "brand": "Brand X",
+            "price": 120
+          },
+          {
+            "product": "Blush",
+            "brand": "Brand Y",
+            "price": 80
+          },
+          {
+            "product": "Lip Gloss",
+            "brand": "Brand Z",
+            "price": 50
+          }
+        ]
+      },
+      {
+        "name": "Lithuania",
+        "currency": "EUR",
+        "topProducts": [
+          {
+            "product": "Highlighter",
+            "brand": "Brand P",
+            "price": 15.99
+          },
+          {
+            "product": "Eyeliner",
+            "brand": "Brand Q",
+            "price": 9.99
+          },
+          {
+            "product": "Concealer",
+            "brand": "Brand R",
+            "price": 12.5
+          }
+        ]
+      }
+    ]
+  }
+  
